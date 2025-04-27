@@ -1,0 +1,16 @@
+{
+  "name": "lab-9",
+  "version": "1.0.0",
+  "main": "lab9.test.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "jest": "^29.7.0",
+    "pactum": "^3.7.6"
+  }
+}
